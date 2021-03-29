@@ -1,5 +1,5 @@
 //Author- Sankalp Bajaj
-//21/March/2020
+//21/March/2021
 //Maximun of N numbers Using For Loop
 
 #include<stdio.h>
