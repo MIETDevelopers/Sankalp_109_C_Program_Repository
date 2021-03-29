@@ -1,5 +1,5 @@
 //Author- Sankalp Bajaj
-//21/March/2020
+//21/March/2021
 //To Find Whether A Number Is Prime Or Not
 
 #include<stdio.h>  
