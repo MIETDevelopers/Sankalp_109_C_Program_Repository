@@ -1,5 +1,5 @@
 //Author- Sankalp Bajaj
-//18/March/2020
+//18/March/2021
 //To Find Whether an Alphabet is Vowel or Consonant
 
 #include<stdio.h> //Header File Input Output

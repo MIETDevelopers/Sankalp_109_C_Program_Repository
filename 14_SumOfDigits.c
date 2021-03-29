@@ -1,5 +1,5 @@
 //Author- Sankalp Bajaj
-//29/March/2020
+//29/March/2021
 //Sum of Digits of a Number Using While Loop
 
 
