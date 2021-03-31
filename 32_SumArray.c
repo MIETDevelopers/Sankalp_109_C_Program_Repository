@@ -1,6 +1,6 @@
 //Author- Sankalp Bajaj
 //31/March/2021
-//A C Program to find sum of all elements of array.
+//Program to find sum of all elements of array.
 
 #include <stdio.h>
 #define MAX_SIZE 100
